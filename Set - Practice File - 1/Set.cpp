@@ -189,7 +189,7 @@ void reSize(int** setA, int* setANOE, int* setACapacity, int newSize)
 	{
 		newSet[i] = (*setA)[i];
 	}
-	*setANOE = newSize;
+	
 	deallocateSet(setA);
 	*setA = newSet;
 }
