@@ -1,6 +1,5 @@
-#ifndef QUOTATION_DB_APPLICATION_H
-#define QUOTATION_DB_APPLICATION_H
-
+#ifndef QUOTE_DB_APP_H
+#define QUOTE_DB_APP_H
 
 void quotationDBApplication();
 

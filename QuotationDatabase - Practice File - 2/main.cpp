@@ -1,8 +1,8 @@
-#include "QuotationDBApplication.h"
-using namespace std;
+#include"QuotationDBApplication.h"
 
 
-int main() {
-
+int main()
+{
+	quotationDBApplication();
 	return 0;
 }
